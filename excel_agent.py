@@ -17,7 +17,7 @@ import sys
 
 
 class data_agent():
-    os.chdir('C:\\Users\\user\\Desktop\\Chat_Bot_Mindsets')
+    #os.chdir('C:\\Users\\user\\Desktop\\Chat_Bot_Mindsets')
 
 
     groq_api = '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'

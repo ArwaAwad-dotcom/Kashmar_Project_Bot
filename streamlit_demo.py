@@ -17,7 +17,7 @@ st.set_page_config(page_title="Excel Bot Helper")
 
 
 with st.sidebar:
-    st.title('Excel Helper Data')
+    st.title('Data Helper Bot')
     
     
     
